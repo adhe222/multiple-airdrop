@@ -70,12 +70,12 @@ After successful installation, you can use these commands:
 
 1. Check node status:
    ```bash
-   multiple-cli status
+   cd multipleforlinux && ./multiple-cli status
    ```
 
 2. View all available commands:
    ```bash
-   multiple-cli --help
+   cd multipleforlinux && ./multiple-cli --help
    ```
 
 ## Logs
