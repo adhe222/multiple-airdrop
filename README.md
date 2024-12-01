@@ -21,13 +21,13 @@ You can quickly install Multiple Node using either `wget` or `curl`:
 Using wget:
 
 ```bash
-wget https://raw.githubusercontent.com/adhe222/multiple-network/refs/heads/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh
+wget https://raw.githubusercontent.com/adhe222/multiple-airdrop/refs/heads/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh
 ```
 
 Using curl:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/adhe222/multiple-network/refs/heads/main/setup.sh -o setup.sh && chmod +x setup.sh && sudo ./setup.sh
+curl -fsSL https://raw.githubusercontent.com/adhe222/multiple-airdrop/refs/heads/main/setup.sh -o setup.sh && chmod +x setup.sh && sudo ./setup.sh
 ```
 
 ## Features
